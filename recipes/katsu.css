@@ -1,3 +1,9 @@
 body h2 {
     text-decoration: underline;
 }
+
+body a {
+    font-size: 25pt;
+    margin-left: 10px;
+    background-color: rgb(227, 227, 227);
+}

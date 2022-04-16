@@ -1,0 +1,15 @@
+img {
+    height: 500px;
+    width: auto;
+    margin-top: -130px;
+    margin-bottom: 0px;
+}
+
+body h2 {
+    text-decoration: underline;
+}
+
+body a {
+    font-size: 25pt;
+    margin-left: 5px;
+}
