@@ -13,10 +13,17 @@ div h2 {
     font-family: fantasy;
     text-decoration: underline;
     font-weight: lighter;
+    background-color: rgb(252, 196, 99);
+    width: fit-content;
 }
 
 div ul,
 div ol {
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
 
+}
+
+h1.chicken-katsu {
+    background-color: antiquewhite;
+    width: fit-content;
 }
