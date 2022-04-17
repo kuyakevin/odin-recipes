@@ -1,9 +1,22 @@
-body h2 {
-    text-decoration: underline;
+div .links {
+    font-size: 15pt;
+    background-color: antiquewhite;
+    width: fit-content;
 }
 
-body a {
-    font-size: 25pt;
-    margin-left: 10px;
-    background-color: rgb(227, 227, 227);
+div h3 {
+    width: 826px;
+    background-color: antiquewhite;
+}
+
+div h2 {
+    font-family: fantasy;
+    text-decoration: underline;
+    font-weight: lighter;
+}
+
+div ul,
+div ol {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+
 }
